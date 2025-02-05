@@ -5,6 +5,7 @@ In the theory of computational complexity, the travelling salesman problem (TSP)
 This repository is an old project of mine and an attempt to create a solution for TSP problem using genetic algorithm. 
 
 Solution:
+
 ![Plot](./images/plot.png "Plot")
 
 ## Run on NixOS
